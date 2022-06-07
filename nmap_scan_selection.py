@@ -112,7 +112,7 @@ def vuln():
     print(f"scanned port range results for {ip_address} is saved as vulnerabilityscan.txt")
 
 
-# We might add more details later :) Planning to simplfy functions since I used same lines in most of them. Any Recommendation will be appereciated! 
+# We might add more details later :) Planning to simplfy functions since I used same lines in most of them.  
 
 if __name__ == "__main__":
     case()
